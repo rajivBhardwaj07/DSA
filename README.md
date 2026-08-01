@@ -20,6 +20,7 @@
 | [0075-sort-colors](https://github.com/rajivBhardwaj07/DSA/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/rajivBhardwaj07/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rajivBhardwaj07/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/rajivBhardwaj07/DSA/tree/master/0202-happy-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rajivBhardwaj07/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/rajivBhardwaj07/DSA/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/rajivBhardwaj07/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -70,9 +71,14 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rajivBhardwaj07/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rajivBhardwaj07/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/rajivBhardwaj07/DSA/tree/master/0202-happy-number) |
 ## Linked List
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rajivBhardwaj07/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rajivBhardwaj07/DSA/tree/master/0142-linked-list-cycle-ii) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/rajivBhardwaj07/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->

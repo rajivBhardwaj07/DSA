@@ -22,6 +22,7 @@
 | [0141-linked-list-cycle](https://github.com/rajivBhardwaj07/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rajivBhardwaj07/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/rajivBhardwaj07/DSA/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/rajivBhardwaj07/DSA/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/rajivBhardwaj07/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rajivBhardwaj07/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/rajivBhardwaj07/DSA/tree/master/0844-backspace-string-compare) |
@@ -56,6 +57,7 @@
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/rajivBhardwaj07/DSA/tree/master/0234-palindrome-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rajivBhardwaj07/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/rajivBhardwaj07/DSA/tree/master/0844-backspace-string-compare) |
 ## Simulation
@@ -81,6 +83,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rajivBhardwaj07/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rajivBhardwaj07/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/rajivBhardwaj07/DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rajivBhardwaj07/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -90,4 +93,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/rajivBhardwaj07/DSA/tree/master/0287-find-the-duplicate-number) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/rajivBhardwaj07/DSA/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->

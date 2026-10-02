@@ -16,6 +16,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/rajivBhardwaj07/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/rajivBhardwaj07/DSA/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/rajivBhardwaj07/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/rajivBhardwaj07/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -106,6 +107,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/rajivBhardwaj07/DSA/tree/master/0202-happy-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/rajivBhardwaj07/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -123,4 +125,16 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/rajivBhardwaj07/DSA/tree/master/0039-combination-sum) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/rajivBhardwaj07/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/rajivBhardwaj07/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/rajivBhardwaj07/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->

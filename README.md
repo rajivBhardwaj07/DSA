@@ -107,15 +107,18 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/rajivBhardwaj07/DSA/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/rajivBhardwaj07/DSA/tree/master/0231-power-of-two) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajivBhardwaj07/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/rajivBhardwaj07/DSA/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/rajivBhardwaj07/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/rajivBhardwaj07/DSA/tree/master/0143-reorder-list) |
+| [0231-power-of-two](https://github.com/rajivBhardwaj07/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/rajivBhardwaj07/DSA/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |

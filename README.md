@@ -106,6 +106,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/rajivBhardwaj07/DSA/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/rajivBhardwaj07/DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/rajivBhardwaj07/DSA/tree/master/0231-power-of-two) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajivBhardwaj07/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -117,6 +118,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/rajivBhardwaj07/DSA/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/rajivBhardwaj07/DSA/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/rajivBhardwaj07/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/rajivBhardwaj07/DSA/tree/master/0234-palindrome-linked-list) |

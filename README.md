@@ -109,6 +109,7 @@
 | [0050-powx-n](https://github.com/rajivBhardwaj07/DSA/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/rajivBhardwaj07/DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/rajivBhardwaj07/DSA/tree/master/0231-power-of-two) |
+| [0372-super-pow](https://github.com/rajivBhardwaj07/DSA/tree/master/0372-super-pow) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajivBhardwaj07/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
 |  |
@@ -142,4 +143,16 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajivBhardwaj07/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/rajivBhardwaj07/DSA/tree/master/0372-super-pow) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/rajivBhardwaj07/DSA/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/rajivBhardwaj07/DSA/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
